@@ -2,4 +2,4 @@
 
 +20 years in tech, now in education.
 
-<https.//kirkby.github.io>
+<https://kirkby.github.io>
